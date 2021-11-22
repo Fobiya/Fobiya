@@ -1,2 +1,1 @@
 #### Здесь могла быть ваша реклама !!! 
-![](https://github.githubassets.com/images/icons/emoji/shipit.png)
